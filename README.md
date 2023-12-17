@@ -4,6 +4,16 @@
 - Configure TaliwindCSS
 - Header
 - Sign in
+- routing
+- form validations
+- what is useRef
+- fire base setup
+- deploying our app into production
+- creat signUp user account
+- create sign in usert in api
+- created Redux store
+- implemented sign out
+- updated profile
 
 # Features
 
